@@ -1,5 +1,5 @@
 """
-This is the entire eection of Analysing summarised
+This is the entire section of Analysing summarised
 Please note that you can't actually just copy everything and slam it into your IDE
 They're all here, you just need to find which one you actually need
 Enjoy : )
